@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/Leaflet%20JS-%2300ff00.svg?style=plastic&logo=leaflet&logoColor=white" alt="Leaflet Js">
+  <img src="https://img.shields.io/badge/OpenLayers-%230070b8.svg?style=plastic&logo=openlayers&logoColor=white" alt="OpenLayers">
+  <img src="https://img.shields.io/badge/Mapbox%20GL-%23000000.svg?style=plastic&logo=mapbox&logoColor=#00C7B7" alt="Mapbox GL">
+  <img src="https://img.shields.io/badge/Turf.JS-%23a2b023.svg?style=plastic&logo=turbofan&logoColor=white" alt="Turf.JS">
+  <img src="https://img.shields.io/badge/mapserver-%23ff7f00.svg?style=plastic&logo=mapserver&logoColor=white" alt="Mapserver">
+  <img src="https://img.shields.io/badge/Geoserver-%2300ff00.svg?style=plastic&logo=geoserver&logoColor=white" alt="Geoserver">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas">
