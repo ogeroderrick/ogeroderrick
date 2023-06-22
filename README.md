@@ -24,7 +24,7 @@
 </div>
 
 
-<div id="tech-stack" align="center">
+<div id="tech-stack" align="center" padding="5px">
   <h2>💻 Tech Stack:</h2>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
@@ -40,6 +40,20 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" alt="Apache">
+</div>
+
+<div id="gis-remote-sensing" align="center" padding="5px">
+  <h2>🌍 GIS & Remote Sensing</h2>
+  <div >
+     <img src="https://img.shields.io/badge/ODK-%232C88D9.svg?style=plastic&logo=opendatakit&logoColor=white" alt="ODK" max-width: 100%;">
+    <img src="https://img.shields.io/badge/Commcare-%234E97D1.svg?style=plastic&logo=commcare&logoColor=white" alt="Commcare" max-width: 100%;">
+    <img src="https://img.shields.io/badge/Survey123-%23F94877.svg?style=plastic&logo=survey123&logoColor=white" alt="Survey123" max-width: 100%;">
+    <img src="https://img.shields.io/badge/QGIS-%235876A4.svg?style=plastic&logo=qgis&logoColor=white" alt="QGIS" max-width: 100%;">
+    <img src="https://img.shields.io/badge/Esri%20ArcGIS-%23000.svg?style=plastic&logo=arcgis&logoColor=white" alt="Esri ArcGIS" max-width: 100%; ">
+    <img src="https://img.shields.io/badge/ILLWIS-%23F5B700.svg?style=plastic&logo=illwis&logoColor=white" alt="ILLWIS" max-width: 100%; ">
+    <img src="https://img.shields.io/badge/CARTO-%233B9AB2.svg?style=plastic&logo=carto&logoColor=white" alt="CARTO" max-width: 100%; ">
+    <img src="https://img.shields.io/badge/Google%20Earth%20Engine-%234285F4.svg?style=plastic&logo=googleearth&logoColor=white" alt="Google Earth Engine" max-width: 100%;">
+  </div>
 </div>
 
 <div id="stats" align="center">
