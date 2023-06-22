@@ -1,4 +1,4 @@
-### Hi there 👋
+
 👋 Hi, I’m Ogero Derrick a GIS Developer from Nairobi, Kenya
 👀 I’m interested in GIS Software Development
 🌱 I’m currently learning Web Programming with Python and Javascript at Edx
