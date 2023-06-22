@@ -6,11 +6,11 @@
 <div id="socials" align="center">
    <h2>🌐 Socials:</h2>
     <br>
-    <a href="https://instagram.com/@_dogero_">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
     <a href="https://linkedin.com/in/@ogeroderrick">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+     <a href="https://twitter.com/@ogero_derrick">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="https://medium.com/@@ogeroderrick">
         <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
@@ -18,8 +18,8 @@
     <a href="https://pinterest.com/@ogeroderrick">
         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest">
     </a>
-    <a href="https://twitter.com/@ogero_derrick">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+    <a href="https://instagram.com/@_dogero_">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
 
