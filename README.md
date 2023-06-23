@@ -75,17 +75,25 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ogeroderrick&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@ogero_derrick)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<div id="tweet" align="center">
+  <h2>🐦 Latest Tweet </h2>
+<img src="https://gtce.itsvg.in/api?username=@ogero_derrick)](https://github.com/VishwaGauravIn/github-twitter-card-embed">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div id="quotes" align="center">
+  <h2>✍️ Random Dev Quote</h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ogeroderrick&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div id=:repo" align="center">
+<h2>🔝 Top Contributed Repo</h2>
+<img src="https://github-contributor-stats.vercel.app/api?username=ogeroderrick&limit=5&theme=radical&combine_all_yearly_contributions=true">
+</div>
 
-### 😂 Random Dev Meme
+<div id="meme" align="center">
+  <h2>😂 Random Dev Meme</h2>
 <img src="https://rm.up.railway.app/" width="512px"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ogeroderrick&icon=2&color=1)](https://visitcount.itsvg.in)
