@@ -79,8 +79,12 @@
 
 <div id="tweet" align="center">
   <h2>🐦 Latest Tweet</h2>
-<img src="https://gtce.itsvg.in/api?username=@ogero_derrick)](https://github.com/VishwaGauravIn/github-twitter-card-embed">
-</div>
+  <a class="twitter-timeline" href="https://twitter.com/@ogero_derrick?ref_src=twsrc%5Etfw">Tweets by ogero_derrick</a> 
+  <img src="https://platform.twitter.com/widgets.js" charset="utf-8">
+  </div>
+
+
+
 
 <div id="quote" align="center">
 <h2>✍️ Random Dev Quote</h2>
@@ -92,16 +96,13 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=ogeroderrick&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
 
-<div id="meme" align="center">
-  <h2>😂 Random Dev Meme</h2>
-<img src="https://rm.up.railway.app/" width="512px"/>
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ogeroderrick&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ogeroderrick) 
+ <div id="donation" align="center"
+   <h2>💰 You can help me by Donating</h2>
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ogeroderrick"> 
+  </div>
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
