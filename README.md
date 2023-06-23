@@ -80,7 +80,7 @@
 <div id="tweet" align="center">
   <h2>🐦 Latest Tweet</h2>
   <a class="twitter-timeline" href="https://twitter.com/@ogero_derrick?ref_src=twsrc%5Etfw">Tweets by ogero_derrick</a> 
-  <img src="https://platform.twitter.com/widgets.js" charset="utf-8">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </div>
 
 
