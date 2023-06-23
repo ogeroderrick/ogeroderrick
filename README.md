@@ -2,7 +2,7 @@
   <h1>💫 About Me:</h1>
 👋 Hi, I’m Ogero Derrick a GIS Developer from Nairobi, Kenya<br>👀 I’m interested in GIS Software Development<br>🌱 I’m currently learning Web Programming with Python and Javascript at edx<br>💞️ I’m looking to collaborate on GIS web, mobile, system design & development projects<br>Let's connect and create!<br>
 </div>
-
+   
 <div id="socials" align="center">
    <h2>🌐 Socials:</h2>
     <br>
