@@ -100,9 +100,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ogeroderrick&icon=2&color=1)](https://visitcount.itsvg.in)
 
- <div id="donation" align="center"
+ <!--<div id="donation" align="center"
    <h2>💰 You can help me by Donating</h2>
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ogeroderrick"> 
-  </div>
+  </div>---->
 
   
