@@ -53,7 +53,8 @@
 <div id="gis-remote-sensing" align="center" padding="5px">
   <h2>🌍 GIS & Remote Sensing</h2>
   <div >
-     <img src="https://img.shields.io/badge/ODK-%232C88D9.svg?style=plastic&logo=opendatakit&logoColor=white" alt="ODK" max-width: 100%;">
+    <img src="https://img.shields.io/badge/ODK-%232C88D9.svg?style=plastic&logo=opendatakit&logoColor=white" alt="ODK" max-width: 100%;">
+    <img src="https://img.shields.io/badge/KoboToolbox-%23F36F21.svg?style=plastic&logo=kobotoolbox&logoColor=white" alt="KoboToolbox" max-width: 100%;">
     <img src="https://img.shields.io/badge/Commcare-%234E97D1.svg?style=plastic&logo=commcare&logoColor=white" alt="Commcare" max-width: 100%;">
     <img src="https://img.shields.io/badge/Survey123-%23F94877.svg?style=plastic&logo=survey123&logoColor=white" alt="Survey123" max-width: 100%;">
     <img src="https://img.shields.io/badge/QGIS-%235876A4.svg?style=plastic&logo=qgis&logoColor=white" alt="QGIS" max-width: 100%;">
