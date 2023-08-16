@@ -6,7 +6,7 @@
 <div id="socials" align="center">
    <h2>🌐 Socials:</h2>
     <br>
-    <a href="https://linkedin.com/in/@ogeroderrick">
+    <a href="https://www.linkedin.com/in/ogero-derrick-425858120/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
      <a href="https://twitter.com/@ogero_derrick">
