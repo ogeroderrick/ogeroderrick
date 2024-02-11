@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" alt="Apache">
-</div>
+</div>     
 
 <div id="gis-remote-sensing" align="center" padding="5px">
   <h2>🌍 GIS & Remote Sensing</h2>
