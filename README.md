@@ -1,6 +1,6 @@
 <div id="about" align="center">
   <h1>💫 About Me:</h1>
-👋 Hi, I am Ogero Derrick a self-taught GIS Developer from Nairobi, Kenya<br>👀 I am interested in GIS Software Development<br>🌱 I am currently learning Back-End Development (Meta Back-End Developer Courses) in Coursera https://www.coursera.org/professional-certificates/meta-back-end-developer<br>💞️ I am looking to collaborate on GIS web, mobile, system design & development projects<br>Let's connect and create!<br> 
+👋 Hello, I am Ogero Derrick a self-taught GIS Developer from Nairobi, Kenya<br>👀 I am interested in GIS Software Development<br>🌱 I am currently learning Back-End Development (Meta Back-End Developer Courses) in Coursera https://www.coursera.org/professional-certificates/meta-back-end-developer<br>💞️ I am looking to collaborate on GIS web, mobile, system design & development projects<br>Let's connect and create!<br> 
 </div>
    
 <div id="socials" align="center">
